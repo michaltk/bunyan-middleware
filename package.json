@@ -1,6 +1,6 @@
 {
-  "name": "bunyan-middleware",
-  "version": "0.8.0",
+  "name": "@qb/bunyan-middleware",
+  "version": "0.8.0-custom.1",
   "description": "Request, response logger middleware using bunyan. Also provides request<>response duration.",
   "main": "index.js",
   "types": "./index.d.ts",
@@ -13,7 +13,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/tellnes/bunyan-middleware.git"
+    "url": "git://github.com/michaltk/bunyan-middleware.git"
   },
   "keywords": [
     "bunyan",
