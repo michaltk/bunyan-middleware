@@ -4,7 +4,7 @@
 [![devDependency Status](https://david-dm.org/tellnes/bunyan-middleware/dev-status.png)](https://david-dm.org/tellnes/bunyan-middleware#info=devDependencies)
 
 ```shell
-npm install bunyan-middleware --save
+yarn add @qb/bunyan-middleware
 ```
 
 Request, response logger middleware for [bunyan](https://github.com/trentm/node-bunyan):
@@ -22,14 +22,14 @@ Request, response logger middleware for [bunyan](https://github.com/trentm/node-
 ## Install
 
 ```shell
-npm install bunyan-middleware --save
+yarn add @qb/bunyan-middleware
 ```
 
 ## Usage
 
 ```js
 var bunyan = require('bunyan')
-  , bunyanMiddleware = require('bunyan-middleware')
+  , bunyanMiddleware = require('@qb/bunyan-middleware')
   , express = require('express')
 
 var app = express()
