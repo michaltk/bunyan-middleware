@@ -1,6 +1,6 @@
 {
   "name": "@qb/bunyan-middleware",
-  "version": "0.8.0-custom.1",
+  "version": "0.8.0-custom.2",
   "description": "Request, response logger middleware using bunyan. Also provides request<>response duration.",
   "main": "index.js",
   "types": "./index.d.ts",
